@@ -10,7 +10,7 @@ int main() {
 		printf("\t _________________________\n");
 		printf("\t|                         |\n");
 		printf("\t| A. Registrar jugadores  |\n");
-		printf("\t| B. Iniciar sesion       |\n");
+		printf("\t| B. Iniciar partida      |\n");
 		printf("\t| C. Resultados           |\n");
 		printf("\t| D. Salir                |\n");
 		printf("\t|_________________________|\n");
