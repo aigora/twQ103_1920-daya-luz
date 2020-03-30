@@ -1,11 +1,13 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Pregunta2
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Luz Altes
+Dayana Izquierdo
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Realizar un programa que permita al usuario responder preguntas aleatorias sobre temas culturales o científicos. Al final el programa
+revolverá al usuario un puntaje total de todas las preguntas bien contestadas. Luego se valorará el puntaje más alto entre los usuarios registrados.
