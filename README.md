@@ -4,8 +4,8 @@ Pregunta2
 
 ## Integrantes del equipo
 
-Luz Altes
-Dayana Izquierdo
+1.Luz Altes 
+2.\tDayana Izquierdo
 
 ## Objetivos del trabajo
 
